@@ -1,6 +1,5 @@
 source
-hello
-test
+
 
 git init
 git add
