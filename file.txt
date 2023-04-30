@@ -1,6 +1,5 @@
 
-x-hello
-y-test
+hello world
 
 git init
 git add
