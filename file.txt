@@ -1,6 +1,6 @@
 
 x-hello
-y-test
+test
 
 git init
 git add
