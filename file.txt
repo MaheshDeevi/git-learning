@@ -1,5 +1,5 @@
-z-hello
-y-test
+hello
+test
 git init
 git add
 git commit
