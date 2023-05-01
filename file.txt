@@ -1,4 +1,4 @@
-z-hello world
+worldsync
 git init
 git add
 git commit
