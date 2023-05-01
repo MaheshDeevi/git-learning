@@ -1,4 +1,4 @@
-worldsync
+orldsync
 git init
 git add
 git commit
